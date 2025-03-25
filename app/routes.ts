@@ -6,7 +6,7 @@ export default [
   route("about", "routes/about.tsx"),
 
   // prefix to define both routes to have an intiall patth of countries
-  ...prefix("countires", [
+  ...prefix("countries", [
     index("routes/countries.tsx"),
     route(":countryName", "routes/country.tsx")
   ]),
