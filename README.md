@@ -1,7 +1,7 @@
 # Mini REST Countries Explorer
  <br />
   <a href="https://react-router-theta-dusky.vercel.app/" target="_blank">
-    <img src="./download.png" alt="Project Banner">
+    <img src="./public/download.png" alt="Project Banner">
   </a>
   <br />
 
