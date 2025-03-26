@@ -1,4 +1,9 @@
 # Mini REST Countries Explorer
+ <br />
+  <a href="https://react-router-theta-dusky.vercel.app/" target="_blank">
+    <img src="./download.png" alt="Project Banner">
+  </a>
+  <br />
 
 A cool, interactive web application that lets you explore country data using the new **React Router V7** framework. This project fetches data from the [REST Countries API](https://restcountries.com) and allows you to filter and view detailed information about countries, including their names, capitals, regions, populations, and flags.
 
