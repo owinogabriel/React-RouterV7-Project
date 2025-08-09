@@ -109,4 +109,4 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 
 ---
 
-Happy coding and enjoy exploring the world with your Mini REST Countries Explorer!
+Happy coding!
