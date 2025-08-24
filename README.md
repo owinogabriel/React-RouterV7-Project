@@ -96,17 +96,4 @@ mini-rest-countries-explorer/
 - **Tailwind CSS:** Utility-first CSS framework for styling.
 - **Vite:** Fast development server and build tool.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request or open an issue.
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature/YourFeature`).
-6. Open a pull request.
-
----
-
 Happy coding!
